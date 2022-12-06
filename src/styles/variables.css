@@ -1,0 +1,15 @@
+:root{
+
+    /* Font */
+    
+    --font: 'Montserrat', sans-serif;
+
+    /* Color */
+
+    --white: #fffffe;
+    --headline: #272343;
+    --yellow: #ffd803;
+    --light-blue: #bae8e8;
+    --button-text: #272343;
+    --paragraph: #2d334a;
+}
